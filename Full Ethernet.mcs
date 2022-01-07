@@ -1,0 +1,90 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Announce.obj
+Folder=Intermediary
+[File001]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Announce.cce
+Folder=Intermediary
+[File002]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ARP.obj
+Folder=Intermediary
+[File003]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ARP.cce
+Folder=Intermediary
+[File004]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\IP.obj
+Folder=Intermediary
+[File005]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\IP.cce
+Folder=Intermediary
+[File006]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\NBNS.obj
+Folder=Intermediary
+[File007]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\NBNS.cce
+Folder=Intermediary
+[File008]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\StackTsk.obj
+Folder=Intermediary
+[File009]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\StackTsk.cce
+Folder=Intermediary
+[File010]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\TCP.obj
+Folder=Intermediary
+[File011]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\TCP.cce
+Folder=Intermediary
+[File012]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Tick.obj
+Folder=Intermediary
+[File013]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Tick.cce
+Folder=Intermediary
+[File014]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\UDP.obj
+Folder=Intermediary
+[File015]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\UDP.cce
+Folder=Intermediary
+[File016]
+Location=D:\hardware\Medicion de humedad y temperatura\Principal.obj
+Folder=Intermediary
+[File017]
+Location=D:\hardware\Medicion de humedad y temperatura\Principal.cce
+Folder=Intermediary
+[File018]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ETH67J60.obj
+Folder=Intermediary
+[File019]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ETH67J60.cce
+Folder=Intermediary
+[File020]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ICMP.obj
+Folder=Intermediary
+[File021]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ICMP.cce
+Folder=Intermediary
+[File022]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Helpers.obj
+Folder=Intermediary
+[File023]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Helpers.cce
+Folder=Intermediary
+[File024]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ServidorTCP.obj
+Folder=Intermediary
+[File025]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\ServidorTCP.cce
+Folder=Intermediary
+[File026]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Delay.obj
+Folder=Intermediary
+[File027]
+Location=D:\hardware\Medicion de humedad y temperatura\TCPIP Stack\Delay.cce
+Folder=Intermediary
+[File028]
+Location=Full Ethernet.cof
+Folder=Output
